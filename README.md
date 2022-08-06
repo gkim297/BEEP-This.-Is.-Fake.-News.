@@ -1,2 +1,2 @@
-# BEET-This.-Is.-Fake.-News.
+# BEEP!-This.-Is.-Fake.-News.
 Fake news detection classifier web application.
