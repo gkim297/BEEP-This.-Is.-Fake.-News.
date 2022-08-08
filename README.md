@@ -7,4 +7,4 @@ Below is the image of deployed application interface.
 
 ![lies_detection](https://user-images.githubusercontent.com/70546406/183507467-92f19b41-96e8-496d-ab72-a5fab42c0f5a.png)
 
-### please be mindful that there currently is a server error through Heroku. ###
+### Please be mindful that of the current server error at Heroku. ###
